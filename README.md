@@ -1,7 +1,7 @@
 # Gemography Backend Coding Challenge
 
 ### APIs
-For more details visit the following link: [Api Documentation link](http://localhost:8080/swagger-ui/index.html#/)
+For more details visit the following link after running the application: [Api Documentation link](http://localhost:9000/swagger-ui/index.html#/)
 
 ### Examples
 
