@@ -7,20 +7,20 @@ For more details visit the following link: [Api Documentation link](http://local
 
 ### Get list of GitHub repositories by user name
 
-####API:
+#### API:
 ```
 http://localhost:9000/github-repos/user/OusamaELIDRISSI
 ```
-####Result:
+#### Result:
 
 ![image2](./src/main/resources/static/images/image2.png)
 
 ### Get list of GitHub repositories by language
 
-####API:
+#### API:
 ```
 http://localhost:9000/github-repos/language/java
 ```
-####Result:
+#### Result:
 
 ![image1](./src/main/resources/static/images/image1.png)
