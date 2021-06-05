@@ -13,7 +13,7 @@ http://localhost:9000/github-repos/user/OusamaELIDRISSI
 ```
 ####Result:
 
-![image2](../static/images/image2.png)
+![image2](./src/main/resources/static/images/image2.png)
 
 ### Get list of GitHub repositories by language
 
@@ -23,4 +23,4 @@ http://localhost:9000/github-repos/language/java
 ```
 ####Result:
 
-![image1](../static/images/image1.png)
+![image1](./src/main/resources/static/images/image1.png)
