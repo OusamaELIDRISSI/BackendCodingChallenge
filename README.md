@@ -1,9 +1,9 @@
 # Gemography Backend Coding Challenge
 
-### APIs
+## APIs
 For more details visit the following link after running the application: [Api Documentation link](http://localhost:9000/swagger-ui/index.html#/)
 
-### Examples
+## Examples
 
 ### Get list of GitHub repositories by user name
 
